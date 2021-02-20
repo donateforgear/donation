@@ -74,7 +74,7 @@ h1{
     color: yellow;
     position: absolute;
     left: 0;
-    background-image: url('assets/windows.png');
+    background-image: url('https://raw.githubusercontent.com/donateforgear/donation/main/assets/windows.png');
 }
 .footer > img , .yao, .ud{
     width: 60px;
