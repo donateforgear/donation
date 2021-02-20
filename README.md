@@ -1,1 +1,1 @@
-donateforgear
+https://donateforgear.github.io/donation/
